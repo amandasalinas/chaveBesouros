@@ -1,0 +1,2 @@
+Site desenvolvido para fins didádicos para desenvolvimento de uma chave dicotômica digital, utilizando HTML, CSS, PHP e JavaScript.
+Instruções: 1) Clique no link com númeração para seguir para o próximo passo. 2) Clique no nome do gênero para ver foto de exemplo e mais informações.
